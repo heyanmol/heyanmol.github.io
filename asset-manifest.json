@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/heyanmol.github.io/static/css/main.90acff57.css",
-    "main.js": "/heyanmol.github.io/static/js/main.fc512083.js",
-    "static/js/787.c4fa053e.chunk.js": "/heyanmol.github.io/static/js/787.c4fa053e.chunk.js",
-    "static/media/av-r.ttf": "/heyanmol.github.io/static/media/av-r.bff500d7e76a1dab42d1.ttf",
-    "static/media/av-sb.ttf": "/heyanmol.github.io/static/media/av-sb.5ee418c0f1bf9fd58510.ttf",
-    "static/media/home-img.webp": "/heyanmol.github.io/static/media/home-img.b01084907d944c0d2f44.webp",
-    "static/media/ds.webp": "/heyanmol.github.io/static/media/ds.0f650d79bac5cbc1fad4.webp",
-    "static/media/contact-img.webp": "/heyanmol.github.io/static/media/contact-img.31cac77260a848e056e3.webp",
-    "static/media/icon-music-black.svg": "/heyanmol.github.io/static/media/icon-music-black.34488759f03da941a793d3b49a3ce53a.svg",
-    "index.html": "/heyanmol.github.io/index.html",
-    "static/media/icon-music-grey.svg": "/heyanmol.github.io/static/media/icon-music-grey.288bd549685aa51d57d54c3a85683276.svg",
-    "main.90acff57.css.map": "/heyanmol.github.io/static/css/main.90acff57.css.map",
-    "main.fc512083.js.map": "/heyanmol.github.io/static/js/main.fc512083.js.map",
-    "787.c4fa053e.chunk.js.map": "/heyanmol.github.io/static/js/787.c4fa053e.chunk.js.map"
+    "main.css": "/static/css/main.27e55e8c.css",
+    "main.js": "/static/js/main.6281b497.js",
+    "static/js/787.c4fa053e.chunk.js": "/static/js/787.c4fa053e.chunk.js",
+    "static/media/av-r.ttf": "/static/media/av-r.bff500d7e76a1dab42d1.ttf",
+    "static/media/av-sb.ttf": "/static/media/av-sb.5ee418c0f1bf9fd58510.ttf",
+    "static/media/home-img.webp": "/static/media/home-img.b01084907d944c0d2f44.webp",
+    "static/media/ds.webp": "/static/media/ds.0f650d79bac5cbc1fad4.webp",
+    "static/media/contact-img.webp": "/static/media/contact-img.31cac77260a848e056e3.webp",
+    "static/media/icon-music-black.svg": "/static/media/icon-music-black.34488759f03da941a793d3b49a3ce53a.svg",
+    "index.html": "/index.html",
+    "static/media/icon-music-grey.svg": "/static/media/icon-music-grey.288bd549685aa51d57d54c3a85683276.svg",
+    "main.27e55e8c.css.map": "/static/css/main.27e55e8c.css.map",
+    "main.6281b497.js.map": "/static/js/main.6281b497.js.map",
+    "787.c4fa053e.chunk.js.map": "/static/js/787.c4fa053e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90acff57.css",
-    "static/js/main.fc512083.js"
+    "static/css/main.27e55e8c.css",
+    "static/js/main.6281b497.js"
   ]
 }
