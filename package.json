@@ -1,7 +1,7 @@
 {
   "name": "anmol-portfolio",
   "version": "0.1.0",
-  "homepage": "https://heyanmol.github.io/heyanmol.github.io",
+  "homepage": "https://heyanmol.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
